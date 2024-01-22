@@ -1,0 +1,14 @@
+﻿C:\Users\sneha.baskaran\Desktop\Web_Api_PMS\Controllers\ProductController.cs
+C:\Users\sneha.baskaran\Desktop\Web_Api_PMS\Data\ApiDbContext.cs
+C:\Users\sneha.baskaran\Desktop\Web_Api_PMS\Migrations\20231213093346_Check.cs
+C:\Users\sneha.baskaran\Desktop\Web_Api_PMS\Migrations\20231213093346_Check.Designer.cs
+C:\Users\sneha.baskaran\Desktop\Web_Api_PMS\Migrations\ApiDbContextModelSnapshot.cs
+C:\Users\sneha.baskaran\Desktop\Web_Api_PMS\Model\Products.cs
+C:\Users\sneha.baskaran\Desktop\Web_Api_PMS\Program.cs
+C:\Users\sneha.baskaran\Desktop\Web_Api_PMS\obj\Debug\net7.0\Web Api.GlobalUsings.g.cs
+C:\Users\sneha.baskaran\Desktop\Web_Api_PMS\obj\Debug\net7.0\.NETCoreApp,Version=v7.0.AssemblyAttributes.cs
+C:\Users\sneha.baskaran\Desktop\Web_Api_PMS\obj\Debug\net7.0\Web Api.AssemblyInfo.cs
+C:\Users\sneha.baskaran\Desktop\Web_Api_PMS\obj\Debug\net7.0\Web Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sneha.baskaran\Desktop\Web_Api_PMS\appsettings.Development.json
+C:\Users\sneha.baskaran\Desktop\Web_Api_PMS\appsettings.json
+C:\Users\sneha.baskaran\Desktop\Web_Api_PMS\Properties\launchSettings.json
